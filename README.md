@@ -6,6 +6,6 @@
 
 * Após realizar o download do projeto e entrar na pasta digite no terminal `npm install`
 
-## Instale as dependências
+## Inicializar Projeto
 
 * Para inicializar o projeto digite `npm start`
